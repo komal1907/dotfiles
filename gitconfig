@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = komal.narrainen93@gmail.com
+	name = Komal Narrainen
